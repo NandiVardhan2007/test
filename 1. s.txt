@@ -1,0 +1,91 @@
+1. s
+How many students will be updated if you executed the following update query?
+update student set email='dummy@gmail.com'where email is null;
+18
+
+2.i,o
+What is the total money earned by selling the items belong to electronics category across all the orders
+447849
+
+3.On which of the following dates ,high no of units are sold -2023-07-15
+4.s
+avg age of all the students -20.88
+5.u,s
+Select the statements that are true 
+-count diff btw 3 and 4 is 3, 11 is 5,.there are 12 6,high no of users in1 
+6.u,s
+which of the following users is not a part of top5 list of 4 star codders in trms of con rate -jeesica garica
+7.i,o 
+what is the place of category kitchenware in terms of total no of units sold across all the orders made for items of that category-3rd
+
+8.i
+no . of items in that category choose wrong -(game-3,kitchware-4)
+
+9. s
+What is the most recent admission date in acoe cse -2024-03-01
+
+10. high no of orders placed (2020-11-09,2021-08-20)
+
+11.u,s 
+which 7 star coder has joined very recently in platform where compared to other 7 coders
+scott Kelly
+
+12. select gender ,count(8) from student group by gender
+\
+13.true
+acet iot has max students
+acet eee 
+acoe-it aec -iot LL have only 1 student
+
+14. distinct branch -8
+
+15. not present in top 5 highest fee paying students (84)
+
+16.total fee that is being paid by the students og clg aec and acoe together -93100000
+
+17.which clg has most no of students-aec
+
+18.count accept cse,it,ee,ds is 42
+
+19.no .of units sold across all orders didn'texceed 100 -webcam
+
+20.users join in 2022 are now 3* coders - 2
+
+21. youngest and oldest 2 * coders -(sc,pc)
+
+22.high amount of money earned by selling any one item-184569
+
+23.orders wew placed in kitchen ware -29
+
+24.
+
+25.diff btw male and female in acoe - 5
+
+26.robot vacuum sold how many - 96
+
+27. most expensive item in items table -laptop
+
+28.avg fee being paid by the acet cse student  -202500
+
+29.join in second half of 2023(syudents count) -33
+
+30. ietam sold in earliest and most recent orders -cam,vac,external hard
+
+31. more female students than male (branches) acet aiml,aec cse, acoe cse
+
+32.sum of the conte _rat of all 6 star coerd-28020
+
+33.oldest student from acet iot -henry ramirez
+
+34.acoe >=3 student per branch -cse,ds,ece,mech
+
+35.high num of joined in date -2023-9-12
+
+36.young student from acoe-17
+
+37. age and email is null -ava hail,sophia
+
+38. ag edidd btw oldest and youngest in acet iot -8
+
+39.avg con_rat of all 5 star coders-2078
+40.many times robot vaccum is ordered -9
